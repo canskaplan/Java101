@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class KullaniciGirisi {
-    public void KullaniciOlusturma() {
+    public void kullaniciOlusturma() {
         String userName, password, yeniSifre;
         int sifremiUnuttum;
         Scanner input = new Scanner(System.in);

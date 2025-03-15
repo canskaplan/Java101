@@ -2,7 +2,7 @@ package org.example;
 import java.util.Scanner;
 
 public class SayilariSiralama {
-    public void BuyuktenKucugeSiralama() {
+    public void buyuktenKucugeSiralama() {
         int a, b, c;
         Scanner input = new Scanner(System.in);
         System.out.print("1.sayı : ");

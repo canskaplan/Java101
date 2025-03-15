@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class KdvTutariHesaplama {
 
-    public void KdvTutariMethodu() {
+    public void kdvTutariMethodu() {
 
         /* Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın.
          (Not : KDV tutarını 18% olarak alın)

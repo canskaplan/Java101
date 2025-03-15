@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class DikUcgendeHipotenus {
-    public void DikUcgenHesaplama() {
+    public void dikUcgenHesaplama() {
 
         //Değişkenlerimizi oluşturalım.
         int a, b;

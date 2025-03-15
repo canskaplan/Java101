@@ -2,7 +2,7 @@ package org.example;
 import java.util.Scanner;
 
 public class HesapMakinesi {
-    public void HesapMakinesiOlusturma() {
+    public void hesapMakinesiOlusturma() {
 
         int n1, n2, select;
         Scanner input = new Scanner(System.in);

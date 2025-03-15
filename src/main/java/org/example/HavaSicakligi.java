@@ -3,7 +3,7 @@ package org.example;
 import java.util.Scanner;
 
 public class HavaSicakligi {
-    public void HavaSicakliginaGoreOneri() {
+    public void havaSicakliginaGoreOneri() {
         int heat;
         Scanner input = new Scanner(System.in);
         System.out.print("Sıcaklığı Giriniz : ");
